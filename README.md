@@ -14,7 +14,7 @@
 ---
 
 ## video
-[![Play Video](https://img.shields.io/badge/▶%20Play-Video-success?style=for-the-badge)](https://drive.google.com/file/d/1DLl20xGPpQ72SVOb-ehCRyiAsJEVnF0y/view?usp=sharing)
+[![Play Video](https://img.shields.io/badge/▶%20Play-Video-success?style=for-the-badge)](https://drive.google.com/file/d/1E4lrah9R8Tn6SXocFQuqI0c59eqOPix1/view?usp=sharing)
 
 ---
 
